@@ -1,0 +1,24 @@
+{
+  "name": "express-server",
+  "version": "0.0.1",
+  "description": "Express React Boilerplate Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danlourd/express-react-boilerplate.git"
+  },
+  "author": "Danlourd Ramirez",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "path": "0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
