@@ -1,5 +1,5 @@
-# das
- DAS Coding Assessment
+# Express React Boilerplate
+ Express/React boilerplate with basic runnable unit test and code splitting
 
 ### Server
  To Run the server, run the following commands
@@ -8,8 +8,6 @@
   npm start
 ```
   open `localhost:3020`
-
-**Note**: I pre-copied the dist folder with all the assets to reduce the steps to run the server
   
 ### Client
  To run the client, run the following commands
