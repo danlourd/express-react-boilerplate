@@ -8,6 +8,7 @@
   npm start
 ```
   open `localhost:3020`
+**Note:** I pre-copied the dist folder to reduce the steps to run the server
   
 ### Client
  To run the client, run the following commands
@@ -27,4 +28,4 @@
  ```
   npm run build
  ```
-   - generates a dist folder with the bundle.js and index.html
+   - generates a dist folder with all the js files (bundle.js, vendor.js and runtime.js) and index.html
