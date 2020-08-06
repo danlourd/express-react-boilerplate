@@ -8,6 +8,7 @@
   npm start
 ```
   open `localhost:3020`
+  
 **Note:** I pre-copied the dist folder to reduce the steps to run the server
   
 ### Client
